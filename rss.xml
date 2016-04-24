@@ -4,8 +4,15 @@
         <description><![CDATA[Diraj Goel]]></description>
         <link>https://thegrid.ai/dirajgoel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:29:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Apr 2016 22:30:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/dirajgoel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>communication</p>]]></description>
+            <link>https://thegrid.ai/dirajgoel/communication/index.html</link>
+            <guid isPermaLink="false">cc27ba96-ed92-49c0-b536-9035da8edc66</guid>
+            <pubDate>Sun, 24 Apr 2016 22:29:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Employee</p>]]></description>
@@ -67,13 +74,6 @@
             <description><![CDATA[<article><h1>Email Is Crushing Us, Can Activity Streams Free Us?</h1><p>If you're struggling to keep your email box from overflowing, you are not alone-this morning, my inbox summary told me I had 616 new messages awaiting my attention. Now, that's a daunting way to start the day. Email overload is a well- documented phenomenon that has been linked to reduced productivity, inability to focus on important tasks, and even physical and emotional stress.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/fe77fce874e8dbd18b7c0366852c88250c404188.jpg"></article>]]></description>
             <link>http://www.fastcompany.com/1825915/email-crushing-us-can-activity-streams-free-us</link>
             <guid isPermaLink="false">3e27b94d-444d-414e-a7ca-8319a6f4aebc</guid>
-            <pubDate>Sun, 24 Apr 2016 22:29:10 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Yammer, Chatter, Tibbr Ranked Top Social Activity Streams - InformationWeek]]></title>
-            <description><![CDATA[<article><h1>Yammer, Chatter, Tibbr Ranked Top Social Activity Streams - InformationWeek</h1><p>(click image for larger view and for slideshow) Forrester Research is back with a report on enterprise activity streams, the social software vendors it left out of its evaluation of enterprise social collaboration platforms in mid 2011. The leaders among enterprise activity streams products, according to Forrester, are Yammer, Saleforce.com's Chatter, and Tibco's Tibbr.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/c94d197e1f8f58b1849ec6730b79fed109322fb0.jpg"></article>]]></description>
-            <link>http://www.informationweek.com/enterprise/yammer-chatter-tibbr-ranked-top-social-activity-streams/d/d-id/1104451?</link>
-            <guid isPermaLink="false">69b453c6-ac71-42b5-a2ad-a652f347cbc2</guid>
             <pubDate>Sun, 24 Apr 2016 22:29:10 GMT</pubDate>
         </item>
     </channel>
