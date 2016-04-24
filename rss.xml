@@ -2,13 +2,20 @@
     <channel>
         <title><![CDATA[Diraj Goel]]></title>
         <description><![CDATA[Diraj Goel]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/dirajgoel/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 24 Apr 2016 22:19:15 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 24 Apr 2016 22:22:20 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/dirajgoel/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Slack is introducing threaded messaging later this year]]></title>
+            <description><![CDATA[<article><h1>Slack is introducing threaded messaging later this year</h1><p>Workplace messaging startup Slack is close to cracking one of its most wanted features: threaded messaging. In conversation with The Verge's Walt Mossberg, Slack CEO Stewart Butterfield said the company has been prototyping various forms of threaded messaging internally for months in search of a solution that doesn't add too much clutter to the product's fast and free flow.</p><img src="https://cdn3.vox-cdn.com/thumbor/w3ULCzMif2vmqTQ4UIjtG3ennpw=/0x131:2500x1537/1600x900/cdn0.vox-cdn.com/uploads/chorus_image/image/49298197/stock-slack-iphone-6-0157.0.0.0.jpg"></article>]]></description>
+            <link>http://www.theverge.com/2016/4/13/11418594/slack-threaded-messaging-chat-app-feature</link>
+            <guid isPermaLink="false">11cd2ab5-c67b-44b3-b61e-87a9501b5bf6</guid>
+            <pubDate>Sun, 24 Apr 2016 22:21:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Why is the web trying to bring back a technology we left behind in the 6th century? | Declara]]></title>
-            <description><![CDATA[<article><h1>Why is the web trying to bring back a technology we left behind in the 6th century? | Declara</h1><p>Learn about Why is the web trying to bring back a technology we left behind in the 6th century?. Declara makes it easy to discover, share and organize knowledge. We empower individuals, organizations and countries to develop the knowledge needed to solve big problems.</p><img src="https://content.declara.com/file/v5kzdrOg/images/1"></article>]]></description>
+            <description><![CDATA[<article><h1>Why is the web trying to bring back a technology we left behind in the 6th century? | Declara</h1><p>Learn about Why is the web trying to bring back a technology we left behind in the 6th century?. Declara makes it easy to discover, share and organize knowledge. We empower individuals, organizations and countries to develop the knowledge needed to solve big problems.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b9ebd0761a496daf81add0f0b2dc64303cb95548.jpg"></article>]]></description>
             <link>https://declara.com/content/v5kzdrOg</link>
             <guid isPermaLink="false">d1421aa8-c11b-4e96-a18a-e13c3dd5f20c</guid>
             <pubDate>Sun, 24 Apr 2016 22:18:30 GMT</pubDate>
