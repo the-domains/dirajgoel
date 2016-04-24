@@ -1,7 +1,7 @@
 name: dirajgoel
 favicon: null
-layout_spectrum: 0.09824565355665982
-typography_spectrum: 0.22803330584429204
+layout_spectrum: 1
+typography_spectrum: 0.32486
 title: Diraj Goel
 cta:
   domain: null
@@ -22,8 +22,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3600359819829464
-  lightness: 0.42397495289333165
-  saturation: 0.19619530928321183
-  rhythmicContrast: 0.28262361930683255
+  brandStrength: 0.375
+  lightness: 0.5625
+  saturation: 0.375
+  rhythmicContrast: 0.5
 purpose: []
